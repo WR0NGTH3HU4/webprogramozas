@@ -7,3 +7,5 @@
 ## Növekmény:
 ### 2023.11.10:
 - Létrehoztam a github repot és a jira tervet.
+- Létrehoztam az adatbázist
+- Elkezdtem a readme-t és a növekményt megírni
