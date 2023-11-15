@@ -6,16 +6,22 @@ body{
 
 header{
     background-color: #DD6E42;
+    border-top-right-radius: 35px;
+    border-top-left-radius: 35px;
+
     line-height: 120px;
     min-height: 120px;
     color: white;
-    text-shadow: 0 0 3px black;
+    
     text-align: center;
     font-size: 200%;
 }
 
 footer{
     background-color: black;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+
     color: white;                                                                                                                                                                                                                                                                                                                                                                       
     font-size: 80%;
     letter-spacing: 3px;
@@ -32,6 +38,7 @@ main{
     box-shadow: 0 0 10px gray;
     padding: 10px;
     margin-top: 300px;
+    border-radius: 35px;
 }
 
 #calendar {
