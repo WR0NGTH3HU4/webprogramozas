@@ -1,3 +1,6 @@
+@font-face { font-family: Montserrat; src: url('Montserrat-Black.ttf'); } 
+@font-face { font-family: Delicious; font-weight: bold; src: url('Montserrat-Bold.otf');}
+
 body{
     background-color: #4F6D7A;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -37,7 +40,7 @@ main{
     background-color: white;
     box-shadow: 0 0 10px gray;
     padding: 10px;
-    margin-top: 300px;
+    
     border-radius: 35px;
 }
 
